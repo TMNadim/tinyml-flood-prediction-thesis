@@ -11,7 +11,14 @@
 - **Tomorrow's Goal:** Complete what is not done today.
 
 
-### Date: Monday, August 5, 2026
+### Date: Monday, August 6, 2026
+- **Today's Goal:** TinyML Course
+- **What I Completed:** Section 1
+- **Where I Got Stuck:** 
+- **Tomorrow's Goal:** To complete section 2
+
+
+### Date: Monday, August 7, 2026
 - **Today's Goal:** 
 - **What I Completed:** 
 - **Where I Got Stuck:** 
