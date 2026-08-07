@@ -20,6 +20,12 @@
 
 ### Date: Monday, August 7, 2026
 - **Today's Goal:** TinyML Course, Understand Flood prediction (Suggestion day 1)
+- **What I Completed:** Read the review paper till section 4.5
+- **Where I Got Stuck:** Didn't had enough time to study TinyML
+- **Tomorrow's Goal:** TinyML and Rest of the review paper
+
+### Date: Monday, August 8, 2026
+- **Today's Goal:** 
 - **What I Completed:** 
 - **Where I Got Stuck:** 
 - **Tomorrow's Goal:** 
