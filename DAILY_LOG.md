@@ -19,7 +19,7 @@
 
 
 ### Date: Monday, August 7, 2026
-- **Today's Goal:** 
+- **Today's Goal:** TinyML Course, Understand Flood prediction (Suggestion day 1)
 - **What I Completed:** 
 - **Where I Got Stuck:** 
 - **Tomorrow's Goal:** 
